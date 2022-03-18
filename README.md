@@ -1,4 +1,4 @@
-#👋 Hi, I’m @kuicq
+## 👋 Hi, I’m @kuicq
 
 Kuicq is a smart business communication software that helps you connect, collaborate and get more done with your team. It's a freemium solution for small businesses and startups, to help you get organized, save time and stay in touch anytime, anywhere. The app integrates scheduling, calendars, messaging, reminders, polls and more to help you stay productive on the go.
 <!---
